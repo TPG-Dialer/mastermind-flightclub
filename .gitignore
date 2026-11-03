@@ -1,0 +1,6 @@
+shots/
+__pycache__/
+*.pyc
+brand/_lc.html
+supabase/migrations/
+supabase/.temp/
